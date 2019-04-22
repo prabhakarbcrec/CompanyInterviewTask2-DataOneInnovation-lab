@@ -1,0 +1,1 @@
+create table product(id int NOT NULL AUTO_INCREMENT,name varchar,price double,brand varchar, Onsale varchar);

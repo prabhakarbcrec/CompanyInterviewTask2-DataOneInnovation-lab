@@ -1,0 +1,10 @@
+INSERT INTO product(name,price,brand,onSale)VALUES('product A',12,'brand A','true');
+INSERT INTO product(name,price,brand,onSale)VALUES('product B',12.2,'brand B','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product C',15.2,'brand C','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product D',112,'brand D','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product A',1.22,'brand A','true');
+INSERT INTO product(name,price,brand,onSale)VALUES('product B',1122.11,'brand B','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product C',45.2,'brand C','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product A',121.2,'brand A','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product B',90.2,'brand B','false');
+INSERT INTO product(name,price,brand,onSale)VALUES('product A',67.3,'brand A','false');
